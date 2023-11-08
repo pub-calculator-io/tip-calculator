@@ -2,7 +2,7 @@
 Contributors: calculatorio
 Tags: 
 Requires at least: 5.0
-Tested up to: 6.3.0
+Tested up to: 6.4.0
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -12,6 +12,12 @@ Free tip calculator that helps people know how much to tip when receiving servic
 == Description ==
 
 Free tip calculator that helps people know how much to tip when receiving services from various businesses and workers. This tool also calculates how to split a bill and tip between a group of people.
+
+__Shortcode__
+
+Use the Tip Calculator shortcode:
+
+`[ci_tip_calculator]`
 
 Libraries in use:
 1. https://mathjs.org/
@@ -25,8 +31,11 @@ Libraries in use:
 
 1. Upload the /ci_tip_calculator/ folder to the /wp-content/plugins/ directory.
 2. Activate the [Tip Calculator](https://www.calculator.io/tip-calculator/ "Tip Calculator Homepage") plugin through the "Plugins" menu in WordPress.
-3. Configure your settings via Appearance > Widgets > Tip Calculator.
-4. And you're good to go!
+
+== Usage ==
+* Add the shortcode `[ci_tip_calculator]` to your page or post and configure default mortgage parameters.
+* If you are using widgets, just add the Tip Calculator to the sidebar through the `Appearance -> Widgets -> Tip Calculator` menu in WordPress.
+* Add the following code: `<?php display_ci_tip_calculator(); ?>` to your template where you would like the Tip Calculator to appear.
 
 == Screenshots ==
 1. The Tip Calculator Input Form.
