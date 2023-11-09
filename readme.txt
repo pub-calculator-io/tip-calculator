@@ -13,6 +13,8 @@ Free tip calculator that helps people know how much to tip when receiving servic
 
 Free tip calculator that helps people know how much to tip when receiving services from various businesses and workers. This tool also calculates how to split a bill and tip between a group of people.
 
+[Tip Calculator Homepage](https://www.calculator.io/tip-calculator/ "Tip Calculator Homepage")
+
 __Shortcode__
 
 Use the Tip Calculator shortcode:
