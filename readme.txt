@@ -9,41 +9,29 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Free tip calculator that helps people know how much to tip when receiving services from various businesses and workers. This tool also calculates how to split a bill and tip between a group of people.
 
-== Description ==
-
-Free tip calculator that helps people know how much to tip when receiving services from various businesses and workers. This tool also calculates how to split a bill and tip between a group of people.
-
 [https://www.calculator.io/tip-calculator/](https://www.calculator.io/tip-calculator/)
 
-__Tip Calculator Shortcode__
+== Usage ==
+
+Add the Tip Calculator shortcode to your page, post or sidebar:
 
 `[ci_tip_calculator]`
 
-== Installation ==
+Add the following code to your template where you would like the Tip Calculator to appear:
 
-1. Upload the /ci_tip_calculator/ folder to the /wp-content/plugins/ directory.
-2. Activate the [Tip Calculator](https://www.calculator.io/tip-calculator/ "Tip Calculator Homepage") plugin through the "Plugins" menu in WordPress.
-
-== Tip Calculator Usage ==
-
-* Add the shortcode `[ci_tip_calculator]` to your page, post or sidebar.
-* Add the following code: `<?php display_ci_tip_calculator(); ?>` to your template where you would like the Tip Calculator to appear.
+`<?php display_ci_tip_calculator(); ?>`
 
 == Screenshots ==
 
 1. The Tip Calculator Input Form.
 2. The Tip Calculator Calculation Results.
 
-== Libraries used in Tip Calculator ==
+== Installation ==
 
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
+1. Upload the Tip Calculator /ci_tip_calculator/ folder to the /wp-content/plugins/ directory.
+2. Activate the Tip Calculator plugin through the "Plugins" menu in WordPress.
 
 == Changelog ==
 
 = 1.0.0 =
-* Initial release
+* Initial release of Tip Calculator
