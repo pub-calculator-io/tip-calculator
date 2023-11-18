@@ -1,4 +1,4 @@
-=== Tip Calculator by Calculator.iO ===
+=== Tip Calculator ===
 Contributors: calculatorio
 Tags: tip calculator, service bill splitting, tip percentage calculation, shared bill tip, individual payment calculation, tip amount formula, total bill per person, tip calculation for groups, service price, dining bill division
 Requires at least: 5.0
