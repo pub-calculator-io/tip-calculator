@@ -1,4 +1,4 @@
-# Tip Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Tip Calculator Widget for WordPress
 
 Free tip calculator that helps people know how much to tip when receiving services from various businesses and workers. This tool also calculates how to split a bill and tip between a group of people.
 
