@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Tip Calculator by www.calculator.io
+Plugin Name: CI Tip calculator
 Plugin URI: https://www.calculator.io/tip-calculator/
 Description: Free tip calculator that helps people know how much to tip when receiving services from various businesses and workers. This tool also calculates how to split a bill and tip between a group of people.
 Version: 1.0.0
