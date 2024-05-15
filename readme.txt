@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Tip Calculator 
 == Screenshots ==
 
 1. The Tip Calculator Input Form.
-2. The Tip Calculator Calculation Results.
 
 == Installation ==
 
